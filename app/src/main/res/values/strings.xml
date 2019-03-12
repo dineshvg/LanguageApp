@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LanguageGame</string>
+    <string name="find_the_translation">Find the translation</string>
+    <string name="encontrar_la_traducci">Encontrar la traducción \n(Find the translation)</string>
+    <string name="that_s_a_correct_translation">That\'s a correct translation!</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+    <string name="score">Score:</string>
+    <string name="null_val">0</string>
+    <string name="rounds">Rounds</string>
+</resources>
